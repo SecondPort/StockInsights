@@ -1,7 +1,5 @@
 # StockInsights (Stock Data Visualization App)
 
-App Screenshot
-
 ## Overview
 
 The Stock Data Visualization App is a powerful tool designed to provide comprehensive stock market analysis and visualization. Built with Streamlit and leveraging financial data from Yahoo Finance, this application offers users an intuitive interface to explore and compare multiple stocks simultaneously.
